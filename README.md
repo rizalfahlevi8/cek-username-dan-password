@@ -1,16 +1,17 @@
-# muhammad_rizal_fahlevi
+## Identitas
+Muhammad Rizal Fahlevi 
 
-A new Flutter project.
+E31221281
 
-## Getting Started
+## Tugas
 
-This project is a starting point for a Flutter application.
+Silahkan buat model pengecekan untuk :
 
-A few resources to get you started if this is your first Flutter project:
+username : Harus menggunakan @ dan .
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Password : harus ada angak alpha numerik dengan panjang karakter minimal 10
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Syarat :
+
+1. Harus menggunakan logic sendiri (for, if etc)
+2. Dibuat dalam bentuk pdf dan disertakan link file dart untuk bisa diuji coba
